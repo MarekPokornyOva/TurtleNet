@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33209.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TurtleNet.Tester", "TurtleNet.Tester\TurtleNet.Tester.csproj", "{DE129097-35EB-49F5-9918-1E90FBC71395}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TurtleNet.Runtime", "TurtleNet.Runtime\TurtleNet.Runtime.csproj", "{2F053935-7116-4EF5-A60E-0C6DBE317166}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TurtleNet.Reflection", "TurtleNet.Reflection\TurtleNet.Reflection.csproj", "{F6E95D2F-7433-48EA-A580-67FFF3F42298}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestAssembly", "TestAssembly\TestAssembly.csproj", "{79826735-49F2-437D-AE72-E53F069FAD49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurtleNet.Tests", "TurtleNet.Tests\TurtleNet.Tests.csproj", "{D002281C-6ECD-4A8D-9764-75B8F1DA59E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A952E188-228D-422E-B691-AEE7D60AE499}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE129097-35EB-49F5-9918-1E90FBC71395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE129097-35EB-49F5-9918-1E90FBC71395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE129097-35EB-49F5-9918-1E90FBC71395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE129097-35EB-49F5-9918-1E90FBC71395}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F053935-7116-4EF5-A60E-0C6DBE317166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F053935-7116-4EF5-A60E-0C6DBE317166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F053935-7116-4EF5-A60E-0C6DBE317166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F053935-7116-4EF5-A60E-0C6DBE317166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E95D2F-7433-48EA-A580-67FFF3F42298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E95D2F-7433-48EA-A580-67FFF3F42298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E95D2F-7433-48EA-A580-67FFF3F42298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E95D2F-7433-48EA-A580-67FFF3F42298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79826735-49F2-437D-AE72-E53F069FAD49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79826735-49F2-437D-AE72-E53F069FAD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79826735-49F2-437D-AE72-E53F069FAD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79826735-49F2-437D-AE72-E53F069FAD49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D002281C-6ECD-4A8D-9764-75B8F1DA59E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D002281C-6ECD-4A8D-9764-75B8F1DA59E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D002281C-6ECD-4A8D-9764-75B8F1DA59E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D002281C-6ECD-4A8D-9764-75B8F1DA59E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8CE6D2B-FBBD-4A77-93D1-D97CF22BBA45}
+	EndGlobalSection
+EndGlobal
